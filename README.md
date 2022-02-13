@@ -17,7 +17,8 @@ What Optimizer do?
 > Delete useless files (.spa) like friends support, hub, error, about page (but still working) 
 
 > After main part of script, u can choose do u want to strip radio, concerts page and podcasts
-If u need them just always press "y" and press "ENTER". If u want to stip them click always "n" and press "ENTER"
+
+> If u need `radio, concerts page and podcasts` just always press "Y" and press "ENTER". If u want to strip them click always "N" and press "ENTER"
 
 IF U DONT LIKE UR NEW SPOTIFY, JUST DELETE IT AND INSTALL NEW ONE FROM OFFICIAL WEBSITE
 
