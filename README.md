@@ -1,10 +1,10 @@
-# Spotify-Optimizer-v1
+# Spotify-Optimizer-v2
 
 PLEASE READ CAREFULLY! IF U WANT SOURCE CODE OF THE FILE MESSAGE ME IN DISCORD: ! jHL#7777
 
-1. Delete ur current Spotify
+1. Delete ur current Spotify with Geek
 
-2. Download Spotify Optimizer v1
+2. Download Spotify Optimizer v2
 
 3. Run it as Administrator
 
