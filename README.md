@@ -2,7 +2,7 @@
 
 PLEASE READ CAREFULLY! IF U WANT SOURCE CODE OF THE FILE MESSAGE ME IN DISCORD: ! jHL#7777
 
-1. Delete ur current Spotify with Geek
+1. Delete ur current Spotify with Geek https://geekuninstaller.com/geek.7z
 
 2. Download Spotify Optimizer v2
 
@@ -10,16 +10,21 @@ PLEASE READ CAREFULLY! IF U WANT SOURCE CODE OF THE FILE MESSAGE ME IN DISCORD: 
 
 What Optimizer do?
 
-> Install old version of Spotify
+> 1) Install old version of Spotify
 
-> Delete all languages files except RUS, ENG(US)
+> 2) Delete all languages files except RUS, ENG(US)
 
-> Delete useless files (.spa) like friends support, hub, error, about page (but still working) 
+> 3) Delete Base Things (keeping podcasts, radio, concerts)
 
-> After main part of script, u can choose do u want to strip radio, concerts page and podcasts
+> 4) Delete FULL Useless Things (podcasts, radio, concerts delete too)
 
-> If u need `radio, concerts page and podcasts` just always press "Y" and press "ENTER". If u want to strip them click always "N" and press "ENTER"
+> 5) Remove Spotify Updates (revert is reinstall spotify from official site)
+
+> 6) OLD UI for Spotify
+
+
+> If u need `radio, concerts page and podcasts` do ONLY **BASICAL DELETING**, if u don't need, u can use **FULL DELETING** 
 
 IF U DONT LIKE UR NEW SPOTIFY, JUST DELETE IT AND INSTALL NEW ONE FROM OFFICIAL WEBSITE
 
-If u have question, check my video there: 
+If u have question, dm me in discord
