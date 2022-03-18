@@ -10,7 +10,8 @@ PLEASE READ CAREFULLY! IF U WANT SOURCE CODE OF THE FILE MESSAGE ME IN DISCORD: 
 
 What do u need to do? 
 
-**Run it as Admin, choose what u want, Example: u need OLD UI, press 6, wait until it shows u *MAIN MENU*, then u need full debloat click 4 and wait until *MAIN MENU***
+**Run it as Admin, choose what u want.
+Example: u need OLD UI, press 6, wait until it shows u *MAIN MENU*, then u need full debloat click 4 and wait until *MAIN MENU***
 
 > 1) Install old version of Spotify
 
