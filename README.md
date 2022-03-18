@@ -1,6 +1,6 @@
 # Spotify-Optimizer-v2
 
-PLEASE READ CAREFULLY! IF U WANT SOURCE CODE OF THE FILE MESSAGE ME IN DISCORD: ! jHL#7777
+PLEASE READ CAREFULLY! IF U WANT SOURCE CODE OF THE FILE MESSAGE ME IN DISCORD: ! jHL#4458
 
 1. Delete ur current Spotify with Geek https://geekuninstaller.com/geek.7z
 
