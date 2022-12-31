@@ -1,10 +1,10 @@
-# Spotify-Optimizer-v2
+# Spotify-Optimizer-v3
 
-PLEASE READ CAREFULLY! IF U WANT SOURCE CODE OF THE FILE MESSAGE ME IN DISCORD: ! jHL#4458
+PLEASE READ CAREFULLY! IF U WANT SOURCE CODE OF THE FILE MESSAGE ME IN DISCORD: xezii#7777
 
 1. Delete ur current Spotify with Geek https://geekuninstaller.com/geek.7z
 
-2. Download Spotify Optimizer v2
+2. Download Spotify Optimizer v3
 
 3. Run it as Administrator
 
@@ -23,7 +23,9 @@ What do u need to do?
 
 > 5) Remove Spotify Updates (revert is reinstall spotify from official site)
 
-> 6) OLD UI for Spotify
+> 6) OLD UI for Spotify (Breaks Hardware Acceleration)
+
+> 7) Stop ADs, Skip Tracks
 
 
 > If u need `radio, concerts page and podcasts` do ONLY **BASICAL DELETING**, if u don't need, u can use **FULL DELETING** 
